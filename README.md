@@ -8,18 +8,14 @@ This repository supports a research project focused on identifying the ownership
 
 Determine the **owner** of each listed energy project and record the **source** used to identify the owner.
 
----
-
 ## 🧭 Workflow Steps
 
 1. **Search the Project Name Online**
    
-
 2. **Cross-Validate with Spreadsheet Data**
-  
 
 3. **Search Public Repositories**
-   -
+   
 4. **Record the Data**
   
 ---
